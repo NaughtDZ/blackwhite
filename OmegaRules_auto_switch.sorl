@@ -4,6 +4,8 @@
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 !internal.example.com
+*.pximg.net
+*.google-analytics.com
 *zodgame.xyz
 *white-plus.net
 *hentai4daily.com
