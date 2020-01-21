@@ -4,6 +4,21 @@
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 !internal.example.com
+*.chatbro.com
+*.gstatic.com
+*.jsdelivr.net
+*.gaygay.me
+*.suki.best
+*.doubibackup.com
+*.vultr.com
+*.speedtest.net
+*.onevps.com
+*.getpaint.net
+*.githubassets.com
+*.googleusercontent.com
+*.ggpht.com
+*.ytimg.com
+*steamcommunity.com
 *skidrowcrack.com
 *.twimg.com
 *.dlsite.com
