@@ -4,6 +4,35 @@
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 !internal.example.com
+*.t.co
+*blackrockshooter.jp
+*.deviantart.net
+*.wix.com
+*.wixmp.com
+*.deviantart.com
+*.parastorage.com
+*.booru.org
+!*.alicdn.com
+!*.mmstat.com
+*.mega.nz
+*.dip.jp
+*.google.com.hk
+*.sakura.ne.jp
+*.yumenoshiori.com
+*.protonmail.com
+*.pianyivps.com
+*.91yun.co
+*.sinaimg.cn
+*.googletagmanager.com
+*.jquery.com
+*.acgget.com
+*.jsdelivr.net
+*.discord.gg
+*.discord.com
+!*.poi3.com
+*.reimu.net
+!*acg18.moe
+*whitecats.dip.jp
 *.chatbro.com
 *.gstatic.com
 *.jsdelivr.net
